@@ -1,41 +1,18 @@
 \#A World of flavours
-ver.0.001.
 
-Several Mods made in Mod Tool, updated and sorted for better performance.
+This mod was originally created with the goal of remaking several mods Made-with the old Mod Tool, improving their compatibility with modern mods and optimizing their overall functionality. To achieve this, the code was rebuilt from the ground up, with unique GUIDs added to prevent conflicts with other installed content, etc.
 
-Added:
--Shared Mods
--Compatibility
--Code changes
+Thanks to the contribution and excellent ideas of the modder Frydhmir, the project expanded and evolved into its current form.
+A World of Flavours focuses mainly —though not exclusively— on introducing new foods and additional needs for citizens.
 
-Includded mods:
--Spices and flavours 1 By fridhmyr; https://mod.io/g/anno-1800/m/flavours-and-spices-vol-1-a-southern-delight#description
--Black Tea By Spaceium; https://mod.io/g/anno-1800/m/black-tea#description
--Pineapple Luxury Good By Spaceium; https://mod.io/g/anno-1800/m/pineapple#description
--Wooden Shoes By AtomicA; https://www.nexusmods.com/anno1800/mods/686?tab=files\&file\_id=2394
+Special thanks to the original authors for granting permission:
+Frydhmir, Spaceium, and AtomicA.
 
-Submods
--Shared Pool And Definitions.
--Tea By Jackob.
--OW Herbs By Jackob.
--Clean Water By HierOnimus.
--Sawdust By HierOnimus and DonnyBresko
--Smoked Fish By Kurila
--Salt Works By Kurila
+New Prods:
 
--Spice Powder By Kurila
-
--Spice Mill By Kurila
-
--Marzipan By Taludas
-
--Salmon By fridhmyr
-
--Rossenwasser By Fridhmyr
-
--Sawdust By Hier0nimos/DonyBresko
+-Jogurt, Mango, Mango Lassi, Pineapples, Pineapple Sapling, Fortified Pineapple Fertilizer, Pineapples for Export, Wooden Shoes, Mustard Seeds, Mustard, Leberkäse, Radishes, Pretzels.
 
 
 
--Special Thanks to: Fridhmyr for the help, the Ideas and of course the Spcialists and GUIDS :).
+<img width="1666" height="1024" alt="banner" src="https://github.com/user-attachments/assets/747559d3-2488-480a-ac37-54db215391fc" />
 
