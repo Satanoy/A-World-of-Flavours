@@ -1,0 +1,6 @@
+This mod also contains a variation "small" that looks like the biscuit one, but without the furnaces. 
+Currently, it is not used. But maybe someone makes a mod that produces toasters etc. in assembly lines, so I thought its better to make more than enough variations...
+Also, there's a rda file for the base factory, but without the furnaces on the side. It's a little bit bugged because it also deletes the fence around the factory, but if you're fine with that...
+To use the smaller models for a different factory, you'll also have to edit  the .fc file (otherwise) you'll have some pigeons and people floating around.
+The roof of the medium variation has been moved down by 0.92158 units.
+The roof of the small variation has been moved down by 2.30198 units.

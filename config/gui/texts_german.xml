@@ -1,0 +1,748 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+<!-- START Products-->
+    <!-- START Joghurt-->
+     <Text>
+      <GUID>1900100000</GUID>
+      <Text>Joghurt</Text>
+    </Text>
+    <Text>
+      <GUID>1900100001</GUID>
+      <Text>Eine weiche und cremige Köstlichkeit, vorsichtig fermentiert aus frischer Milch.</Text>
+    </Text>
+    <!-- END Joghurt-->
+    <!-- START Mango-Lassi-->
+     <Text>
+      <GUID>1900100008</GUID>
+      <Text>Mango-Lassi</Text>
+    </Text>
+    <Text>
+      <GUID>1900100009</GUID>
+      <Text>Ein exotisches und erfrischendes Getränk, das reife Mangos mit cremigem Joghurt mischt.</Text>
+    </Text>
+    <!-- END Mango-Lassi-->
+    <!-- START Pineaple-->
+     <Text>
+      <GUID>1900100014</GUID>
+      <Text>Ananas</Text>
+    </Text>
+    <Text>
+      <GUID>1900100015</GUID>
+      <Text>Goldene, süße und saftige Früchte - der Stolz der Tropen.</Text>
+    </Text>
+    <!-- END Pineaple-->
+    <!-- START Fortified Pineapple Fertilizer-->
+     <Text>
+      <GUID>1900100025</GUID>
+      <Text>Verbesserter Dünger</Text>
+    </Text>
+    <Text>
+      <GUID>1900100026</GUID>
+      <Text>Eine verbesserte Rezeptur, entwickelt, um anspruchsvolle tropische Früchte wie Ananas zu nähren.</Text>
+    </Text>
+    <!-- END Fortified Pineapple Fertilizer-->
+    <!-- START Exports Pineapple-->
+     <Text>
+      <GUID>1900100042</GUID>
+      <Text>Export-Ananas</Text>
+    </Text>
+    <Text>
+      <GUID>1900100043</GUID>
+      <Text>Handverlesene Früchte, sorgfältig verpackt, um Märkte in aller Welt zu erobern.</Text>
+    </Text>
+    <!-- END Exports Pineappler-->
+    <!-- START Wooden Shoes-->
+     <Text>
+      <GUID>1900100055</GUID>
+      <Text>Holzschuhe</Text>
+    </Text>
+    <Text>
+      <GUID>1900100056</GUID>
+      <Text>DIe Menschen in den Niederlanden werden glücklich sein!</Text>
+    </Text>
+    <!-- END Wooden Shoes-->
+    <!-- START Mustard Seeds-->
+     <Text>
+      <GUID>1900100071</GUID>
+      <Text>Senfsamen</Text>
+    </Text>
+    <Text>
+      <GUID>1900100072</GUID>
+      <Text>Würzige Saaten, die in Saucen und zum Einlegen verwendet werden.</Text>
+    </Text>
+    <!-- END Mustard Seeds-->
+    <!-- START Mustard -->
+     <Text>
+      <GUID>1900100084</GUID>
+      <Text>Senf</Text>
+    </Text>
+    <Text>
+      <GUID>1900100087</GUID>
+      <Text>Eine würzige Paste, um Geschmacksnoten zu verbessern.</Text>
+    </Text>
+    <!-- END Mustard -->
+    <!-- START Leberkäse -->
+     <Text>
+      <GUID>1900100089</GUID>
+      <Text>Leberkäse</Text>
+    </Text>
+    <Text>
+      <GUID>1900100090</GUID>
+      <Text>Eine herzhafte gebackene Wurstspezialität von alpinem Ursprung.</Text>
+    </Text>
+    <!-- END Leberkäse -->
+    <!-- START Radish -->
+     <Text>
+      <GUID>1900100097</GUID>
+      <Text>Rettich</Text>
+    </Text>
+    <Text>
+      <GUID>1900100098</GUID>
+      <Text>Eine knackige und scharfe Wurzel, die für ihren einzigartigen Geschmack und den hohen Nährwert angebaut wird.</Text>
+    </Text>
+    <!-- END Radish-->
+    <!-- START Brezeln -->
+     <Text>
+      <GUID>1900100120</GUID>
+      <Text>Brezn</Text>
+    </Text>
+    <Text>
+      <GUID>1900100121</GUID>
+      <Text>Gebackene Knoten aus weichem, duftendem Teig mit einem traditionsreichen Geschmack.</Text>
+    </Text>
+    <!-- END Brezeln-->
+    <!-- START Pineapple Sapling-->
+     <Text>
+      <GUID>1900100215</GUID>
+      <Text>Ananas-Setzling</Text>
+    </Text>
+    <!-- END Pineapple Sapling-->
+
+<!-- END Products-->
+<!-- START Buildings-->
+   <!-- START Joghurt-Molkerei-->
+     <Text>
+      <GUID>1900100016</GUID>
+      <Text>Joghurt-Molkerei</Text>
+    </Text>
+    <Text>
+      <GUID>1900100017</GUID>
+      <Text>Eine spezialisierte Molkerei, in der frische Milch in natürlichen Joghurt verwandelt wird.</Text>
+    </Text>
+    <!-- END Joghurt-Molkerei-->
+    <!-- START House of Flavors Blank-->
+     <Text>
+      <GUID>1900100076</GUID>
+      <Text>Haus der Aromen</Text>
+    </Text>
+    <Text>
+      <GUID>1900100077</GUID>
+      <Text>Wo die Aromen der Welt in einzigartigen und aromatischen Rezeptem zum Leben erwachen.</Text>
+    </Text>
+    <!-- END House of Flavors Blank-->
+    <!-- START Mango-Lassi-Fabrik-->
+     <Text>
+      <GUID>1900100023</GUID>
+      <Text>Haus der Aromen: Mango-Lassi</Text>
+    </Text>
+    <Text>
+      <GUID>1900100024</GUID>
+      <Text>Eine erfrischende Fabrik, in der süße Mangos und Joghurt in ein köstliches Getränk verwandelt werden.</Text>
+    </Text>
+    <!-- END Mango-Lassi-Fabrik-->
+    <!-- START House of Flavors: Smoke Salmon-->
+     <Text>
+      <GUID>1900100073</GUID>
+      <Text>Haus der Aromen: Räucherlachs</Text>
+    </Text>
+    <Text>
+      <GUID>1900100074</GUID>
+      <Text>Eine Fabrik, wo Lachs weiterverarbeitet und langsam geräuchert wird, um seinen Geschmack und seine Frische zu bewahren.</Text>
+    </Text>
+    <!-- END House of Flavors: Smoke Salmon-->
+    <!-- START House of Flavors: Leberkäse-->
+     <Text>
+      <GUID>1900100091</GUID>
+      <Text>Haus der Aromen: Leberkäse</Text>
+    </Text>
+    <Text>
+      <GUID>1900100092</GUID>
+      <Text>Eine Einrichtung, die sich auf die Zubereitung und das Backen von traditionellem Leberkäse spezialisiert hat.</Text>
+    </Text>
+    <!-- END House of Flavors: Leberkäse-->
+    <!-- START Tropical Fertilizer Plant-->
+     <Text>
+      <GUID>1900100030</GUID>
+      <Text>Tropische Düngerfabrik</Text>
+    </Text>
+    <Text>
+      <GUID>1900100039</GUID>
+      <Text>Wo landwirtschaftliches Wissen weiterentwickelt wird, um Dünger zu erstellen, der für die anspruchsvollsten Böden gemacht ist.</Text>
+    </Text>
+    <!-- END Tropical Fertilizer Plant-->
+    <!-- START Pineapple Exporter-->
+     <Text>
+      <GUID>1900100044</GUID>
+      <Text>Ananas-Exportlager</Text>
+    </Text>
+    <Text>
+      <GUID>1900100045</GUID>
+      <Text>Pack- und Verteilzentrum, wo die feinsten tropischen Ananas ihre Reise um die Welt beginnen.</Text>
+    </Text>
+    <!-- END Pineapple Exporter-->
+    <!-- START Herbal Tea Dryer-->
+     <Text>
+      <GUID>1900100057</GUID>
+      <Text>Kräutertee-Küche</Text>
+    </Text>
+    <Text>
+      <GUID>11900100058</GUID>
+      <Text>Hier werden aromatische Kräuter getrocknet und zubereitet, damit dunkler Kräutertee daraus wird, das beliebteste Erfrischungsgetränk der alten Welt.</Text>
+    </Text>
+    <!-- END Herbal Tea Dryer-->
+    <!-- START Wooden Shoe Maker-->
+     <Text>
+      <GUID>1900100065</GUID>
+      <Text>Holzschuhmacher</Text>
+    </Text>
+    <Text>
+      <GUID>1900100066</GUID>
+      <Text>Produktionsgebäude</Text>
+    </Text>
+    <!-- END Wooden Shoe Maker-->
+    <!-- START Mustard Mill-->
+     <Text>
+      <GUID>1900100083</GUID>
+      <Text>Senfmühle</Text>
+    </Text>
+    <!-- END Mustard Mill-->
+    <!-- START Bretzelnhaus-->
+     <Text>
+      <GUID>1900100122</GUID>
+      <Text>Brezn-Bäckerei</Text>
+    </Text>
+    <!-- END Bretzelnhaus-->
+    <!-- START Rosenwaterworkshop-->
+     <Text>
+      <GUID>1900100127</GUID>
+      <Text>Rosenwasser-Destille</Text>
+    </Text>
+    <!-- END Rosenwaterworkshop-->
+    <!-- START Traditional Confectioner-->
+     <Text>
+      <GUID>1888999755</GUID>
+      <Text>Traditionelle Konditorei</Text>
+    </Text>
+    <!-- END Traditional Confectioner-->
+
+<!-- END Buildings -->
+<!-- START Crops-->
+     <!-- START Orchard: Mango-->
+     <Text>
+      <GUID>1900100020</GUID>
+      <Text>Baumschule: Mango</Text>
+    </Text>
+    <Text>
+      <GUID>1900100013</GUID>
+      <Text>Eine tropische Baumschule, wo süße Mangos unter der sengenden Sonne wachsen</Text>
+    </Text>
+    <!-- END Orchard: Mango-->
+    <!-- START Pineapple Plantation-->
+     <Text>
+      <GUID>1900100018</GUID>
+      <Text>Ananas-Plantage</Text>
+    </Text>
+    <Text>
+      <GUID>1900100019</GUID>
+      <Text>Tropische Felder, wo die begehrten goldenen Früchte reifen.</Text>
+    </Text>
+    <!-- END Pineapple Plantation-->
+    <!-- START Mustard Farm-->
+     <Text>
+      <GUID>1900100081</GUID>
+      <Text>Senffarm</Text>
+    </Text>
+    <!-- END Mustard Farm-->
+    <!-- START Radish Farm-->
+     <Text>
+      <GUID>1900100100</GUID>
+      <Text>Rettichfarm</Text>
+    </Text>
+    <!-- END Radish Farm-->
+    <!-- START Pineapple Sapling Plantation-->
+     <Text>
+      <GUID>1900100207</GUID>
+      <Text>Plantage für Ananas-Setzlinge</Text>
+    </Text>
+    <!-- END Pineapple Sapling Plantation-->
+    <!-- START Pineaple sapling farm field -->
+    <Text>
+      <GUID>1900100133</GUID>
+      <Text>Ananas-Setzlingsfeld</Text>
+    </Text>
+    <!-- END Pineaple sapling farm field -->
+    <!-- START Mustard farm field -->
+    <Text>
+      <GUID>1900100094</GUID>
+      <Text>Senffarmfeld</Text>
+    </Text>
+    <!-- END Mustard farm field -->
+     <!-- START Radish farm field -->
+    <Text>
+      <GUID>1900100093</GUID>
+      <Text>Radish farm field</Text>
+    </Text>
+    <!-- END Radish farm field -->
+    
+<!-- END Crops -->
+<!-- START Buffs-->
+
+     <!-- START Buff Tropical Fertilizer-->
+     <Text>
+      <GUID>1900100053</GUID>
+      <Text>Verstärkte Wurzeln</Text>
+    </Text>
+    <Text>
+      <GUID>1900100054</GUID>
+      <Text>Beschleunigt das Wachstum von tropischen Landwirtschaftsprodukten.</Text>
+    </Text>
+    <!-- END Buff Tropical Fertilizer-->
+    
+<!-- END Buffs-->
+<!-- START Chainprods-->
+     <!-- START  Joghurt-->
+     <Text>
+      <GUID>1900100010</GUID>
+      <Text>Joghurt</Text>
+    </Text>
+    <Text>
+      <GUID>1900100011</GUID>
+      <Text>Produktion</Text>
+    </Text>
+    <!-- END  Joghurt-->
+    <!-- START  Joghurt-->
+     <Text>
+      <GUID>1900100012</GUID>
+      <Text>Mango-Lassi</Text>
+    </Text>
+    <Text>
+      <GUID>1900100011</GUID>
+    </Text>
+    <!-- END  Joghurt-->
+    <!-- START  Pineapples-->
+     <Text>
+      <GUID>1900100029</GUID>
+      <Text>Ananas</Text>
+    </Text>
+    <Text>
+      <GUID>1900100011</GUID>
+    </Text>
+    <!-- END  Pineapples-->
+    <!-- START  Export Pineapples-->
+     <Text>
+      <GUID>1900100046</GUID>
+      <Text>Export-Ananas</Text>
+    </Text>
+    <Text>
+      <GUID>1900100011</GUID>
+    </Text>
+    <!-- END  Export Pineapples-->
+    <!-- START  Export Pineapples-->
+     <Text>
+      <GUID>1900100059</GUID>
+      <Text>Dunkler Kräutertee</Text>
+    </Text>
+    <Text>
+      <GUID>1900100011</GUID>
+    </Text>
+    <!-- END  Export Pineapples-->
+    <!-- START  Wooden Shoes-->
+     <Text>
+      <GUID>1900100064</GUID>
+      <Text>Holzschuhe</Text>
+    </Text>
+    <Text>
+      <GUID>1900100011</GUID>
+    </Text>
+    <!-- END  Wooden Shoes-->
+    <!-- START  Smoked Salmon-->
+     <Text>
+      <GUID>1900100075</GUID>
+      <Text>Räucherlachs</Text>
+    </Text>
+    <Text>
+      <GUID>1900100011</GUID>
+    </Text>
+    <!-- END  Smoked Salmon-->
+    <!-- START Mustard-->
+     <Text>
+      <GUID>1900100088</GUID>
+      <Text>Senf</Text>
+    </Text>
+    <Text>
+      <GUID>1900100011</GUID>
+    </Text>
+    <!-- END Mustard-->
+    <!-- START Leberkäse-->
+     <Text>
+      <GUID>1900100096</GUID>
+      <Text>Leberkäse</Text>
+    </Text>
+    <Text>
+      <GUID>1900100011</GUID>
+    </Text>
+    <!-- END Leberkäse-->
+    <!-- START Brezeln-->
+     <Text>
+      <GUID>1900100123</GUID>
+      <Text>Brezn</Text>
+    </Text>
+    <Text>
+      <GUID>1900100011</GUID>
+    </Text>
+    <!-- END Brezeln-->
+    <!-- START  Rosewater-->
+     <Text>
+      <GUID>1900100126</GUID>
+      <Text>Rosenwasser</Text>
+    </Text>
+    <Text>
+      <GUID>1900100011</GUID>
+    </Text>
+    <!-- END  Rosewater-->
+    <!-- START  Traditional Sweets-->
+     <Text>
+      <GUID>1888999756</GUID>
+      <Text>Traditionelle Süßigkeiten</Text>
+    </Text>
+    <Text>
+      <GUID>1900100011</GUID>
+    </Text>
+    <!-- END  Traditional Sweets-->
+
+<!-- END Chainprods -->
+<!-- Desc Multy-->   
+
+    <Text>
+      <GUID>1900100079</GUID>
+      <Text>Mango-Lassi</Text>
+    </Text>
+    <Text>
+      <GUID>1900100080</GUID>
+      <Text>Räucherlachs</Text>
+    </Text>
+    <Text>
+      <GUID>1900100095</GUID>
+      <Text>Leberkäse</Text>
+    </Text>
+
+<!-- Desc Multy-->
+<!-- START Restaurant-->
+   <Text>
+      <GUID>1900100101</GUID>
+      <Text>Restaurant für Aromen und Gewürze</Text>
+    </Text>
+    <Text>
+      <GUID>1900100102</GUID>
+      <Text>Ein kleines, aber gemütliches Restaurant, das auf seiner Speisekarte Rezepte aus aller Welt anbietet.</Text>
+    </Text> 
+   <Text>
+      <GUID>1900100104</GUID>
+      <Text>Restaurant für Aromen und Gewürze: Brotzeit</Text>
+    </Text>
+    <Text>
+      <GUID>1900100105</GUID>
+      <Text>Ein herzhaftes und nahrreiches, sehr traditionelles alpines Frühstück.</Text>
+    </Text> 
+    <Text>
+      <GUID>1900100108</GUID>
+      <Text>Restaurant für Aromen und Gewürze: Gravad Lachs</Text>
+    </Text>
+    <Text>
+      <GUID>1900100109</GUID>
+      <Text>Ein typisches arktisches Lachsgericht, gesund und mit dem vollen Geschmack der arktischen See.</Text>
+    </Text> 
+    <Text>
+      <GUID>1900100112</GUID>
+      <Text>Restaurant für Aromen und Gewürze: Lokum</Text>
+    </Text>
+    <Text>
+      <GUID>1900100113</GUID>
+      <Text>Ein typische typische orientalische Nachspeise, auch Orientalischer Honig genannt, perfekt zur Kaffeezeit.</Text>
+    </Text> 
+    <Text>
+      <GUID>1900100116</GUID>
+      <Text>Restaurant für Aromen und Gewürze: Ananas-Mango-Joghurt-Eiscreme</Text>
+    </Text>
+    <Text>
+      <GUID>1900100117</GUID>
+      <Text>Eine erfrischende Nachspeise mit frischen tropischen Früchten und natürlichem Joghurt.</Text>
+    </Text>
+    <Text>
+      <GUID>1900100106</GUID>
+      <Text>Brotzeit</Text>
+    </Text>
+    <Text>
+      <GUID>1900100110</GUID>
+      <Text>Gravad Lachs</Text>
+    </Text>
+    <Text>
+      <GUID>1900100114</GUID>
+      <Text>Lokum</Text>
+    </Text>
+    <Text>
+      <GUID>1900100118</GUID>
+      <Text>Ananas-Mango-Joghurt-Eiscreme</Text>
+    </Text>
+        <Text>
+      <GUID>1900100107</GUID>
+      <Text>Brotzeit</Text>
+    </Text>
+    <Text>
+      <GUID>1900100111</GUID>
+      <Text>Gravad Lachs</Text>
+    </Text>
+    <Text>
+      <GUID>1900100115</GUID>
+      <Text>Lokum</Text>
+    </Text>
+    <Text>
+      <GUID>1900100119</GUID>
+      <Text>Ananas-Mango-Joghurt-Eiscreme</Text>
+    </Text>
+<!-- END Restaurant--> 
+<!-- START SPECIALIST-->
+
+     <!-- START Claire Grube, Spezialistin für Bakterien-->
+     <Text>
+      <GUID>1900100027</GUID>
+      <Text>Claire Grube, Spezialistin für Bakterien</Text>
+    </Text>
+    <Text>
+      <GUID>1900100028</GUID>
+      <Text>Sie riecht etwas streng, kennt sich aber bestens mit Bakterienkulturen aus.</Text>
+    </Text>
+    <!-- END Claire Grube, Spezialistin für Bakterien-->
+    <!-- START Emerson Rodriguez, der Mangokönig-->
+     <Text>
+      <GUID>1900100031</GUID>
+      <Text>Emerson Rodriguez, der Mangokönig</Text>
+    </Text>
+    <Text>
+      <GUID>1900100032</GUID>
+      <Text>Er thront auf dem Mangokönigsthron.</Text>
+    </Text>
+    <!-- END Emerson Rodriguez, der Mangokönig-->
+    <!-- START Kiran Rasvala, der Nektaressentialist-->
+     <Text>
+      <GUID>1900100037</GUID>
+      <Text>Kiran Rasvala, der Nektaressentialist</Text>
+    </Text>
+    <Text>
+      <GUID>1900100038</GUID>
+      <Text>Er weiß genau, wie man feinste Aromen kredenzt.</Text>
+    </Text>
+    <!-- END Kiran Rasvala, der Nektaressentialist-->
+        <!-- START Isabela Maranta, The Queen of Pineapples-->
+     <Text>
+      <GUID>1900100047</GUID>
+      <Text>Isabela Maranta, die Ananas-Königin</Text>
+    </Text>
+    <Text>
+      <GUID>1900100048</GUID>
+      <Text>Eine leidenschaftliche Züchterin aus der Karibik, ihre goldenen Früchte sidn der Stolz der Tropen und die Sehnsucht weit entfernter Häfen.</Text>
+    </Text>
+    <!-- END Isabela Maranta, The Queen of Pineapples-->
+    <!-- START Don Everardo Gómez, The Compost Master-->
+     <Text>
+      <GUID>1900100049</GUID>
+      <Text>Mister Mineral, das Dünger-Genie</Text>
+    </Text>
+    <Text>
+      <GUID>1900100050</GUID>
+      <Text>Mit seinem seit Generationen übermittelten Wissen und moderner Präzision verwandelt er Mist und Mineralien in das Geheimnis tropischer Landwirtschaft.</Text>
+    </Text>
+    <!-- END Don Everardo Gómez, The Compost Master-->
+    <!-- START Doña Caridad Herrera, The Lady of Sweet Gold-->
+    <Text>
+      <GUID>1900100051</GUID>
+      <Text>Doña Caridad Herrera, die Lady des süßen Goldes</Text>
+    </Text>
+    <Text>
+      <GUID>1900100052</GUID>
+      <Text>Mit stetiger Hingabe und talentierten Händen überwacht sie persönlich jede Ananaskiste, als wäre sie ein Schatz, der darauf wartet, über die Weltmeere transportiert zu werden.</Text>
+    </Text>
+    <!-- END Doña Caridad Herrera, The Lady of Sweet Gold-->
+    <!-- START Élise Lavandier, The Infusion Lady-->
+    <Text>
+      <GUID>1900100060</GUID>
+      <Text>Élise Lavandier, die Grande Dame der Erfischung</Text>
+    </Text>
+    <Text>
+      <GUID>1900100061</GUID>
+      <Text>Sie erkennt alle Kräuter an Textur und Aromaa; das Trocknen hinterlässt Kräutertees von Charakter und Tiefe.</Text>
+    </Text>
+    <!-- END Élise Lavandier, The Infusion Lady-->
+    <!-- START Janneke van Hout, The Clog Master-->
+     <Text>
+      <GUID>1900100067</GUID>
+      <Text>Janneke van Hout, der Clog-Meister</Text>
+    </Text>
+    <Text>
+      <GUID>1900100068</GUID>
+      <Text>Zwischen Schnitzmessern und Weichholz geboren, schnitzt Janneke jedes Paar, als ob es ein Kunstwerk für die Füße der Menschen sei.</Text>
+    </Text>
+    <!-- END Janneke van Hout, The Clog Master-->
+    <!-- START Dr.Alois Habelwurz, mustardologist-->
+    <Text>
+      <GUID>1900100201</GUID>
+      <Text>Dr.Alois Habelwurz, Senfologe</Text>
+    </Text>
+    <Text>
+      <GUID>1900100202</GUID>
+      <Text>Ein pedantischer Pflanzenkundler mit einer Vorliebe für alles, was brennt – zumindest auf der Zunge. Habelwurz verbrachte Jahre mit der Kreuzung wilder Brassicaceae-Arten und entwickelte ein besonders ertragreiches Senfkorn – das sogenannte „Habelgelb“. Seine Methoden sind umstritten, doch der Ertrag spricht für sich.</Text>
+    </Text>
+    <!-- END Dr.Alois Habelwurz, mustardologist-->
+    <!-- STRT Anders Fluefisker, the skillful fisherman-->
+    <Text>
+      <GUID>1900100213</GUID>
+      <Text>Anders Fluefisker, der kunstfertige Angler</Text>
+    </Text>
+    <Text>
+      <GUID>1900100214</GUID>
+      <Text>„Man muss das Meer lesen können wie ein altes Tagebuch.“ Ein wortkarger Nordmann mit ruhiger Hand und jahrzehntelanger Erfahrung. Fluefisker fischt nicht einfach – er komponiert. Seine Leinen gleiten lautlos durchs Eiswasser, seine Fangtechniken sind ebenso effektiv wie elegant. Seit seinem Rückzug aus der königlichen Polar-Expedition lebt er zurückgezogen, doch sein Wissen über Fischgründe und Robbenmigration ist unübertroffen.</Text>
+    </Text>
+    <!-- END Anders Fluefisker, the skillful fisherman-->
+    <!-- START Brunhilde Senftreu, purveyor to the court of the ducal mustard office-->
+     <Text>
+      <GUID>1900100205</GUID>
+      <Text>Brunhilde Senftreu, Hoflieferantin des herzöglichen Senfamtes</Text>
+    </Text>
+    <Text>
+      <GUID>1900100206</GUID>
+      <Text>„Nur der feinste Mahlgrad gehört auf den edlen Tisch.“ Aus einer alteingesessenen Gewürzfamilie stammend, arbeitete sich Brunhilde Senftreu mit eiserner Disziplin und silberner Kelle in den Rang der offiziellen Senflieferantin des herzoglichen Hofes empor. Mit Argusaugen überwacht sie jedes Fass, rührt notfalls selbst um – und bringt die Belegschaft allein durch ihre Präsenz dazu, effizienter zu arbeiten.</Text>
+    </Text>
+    <!-- END Brunhilde Senftreu, purveyor to the court of the ducal mustard office-->
+    <!-- START Da Huaba Sepp, the master of meat-->
+    <Text>
+      <GUID>1900100229</GUID>
+      <Text>Da Huaba Sepp, Fleischfluencer vom Alpenrand</Text>
+    </Text>
+    <Text>
+      <GUID>1900100230</GUID>
+      <Text>„Ohne a bissl Fett schmeckt’s halt net!“ Sepp, genannt „da Huaba“, ist Metzger in achter Generation – und das sieht man (und riecht man). Mit Bärtel, Lederhosn und einem Messer, das fast so scharf ist wie seine Zunge, zaubert er täglich goldbraune Leberkäslaiber aus geheimen Fleischmischungen. Seine Philosophie: „Mia san mia, und mia san saftig.“ Für sein Handwerk wird er in halb Bayern verehrt – und in der andern Hälfte beneidet.</Text>
+    </Text>
+    <!-- END Da Huaba Sepp, the master of meat-->
+    <!-- START Deorges Gelbard, the Rose Virtuoso of Chartres-->
+    <Text>
+      <GUID>1900100233</GUID>
+      <Text>Deorges Gelbard, der Rosenvirtuose von Chartres</Text>
+    </Text>
+    <Text>
+      <GUID>1900100210</GUID>
+      <Text>„Jede Rose ist ein Gedicht – aber nur die richtige blüht im Takt.“ Gelbard ist mehr als ein Gärtner: Er ist ein Rosenflüsterer mit seidenen Handschuhen und eiserner Disziplin. Aufgewachsen zwischen den Glashäusern der Loire, hat er eigene Sorten gezüchtet, die bei Sonnenaufgang blühen und bei Opernarien duften. Sein Name ist in Adelsgärten und auf Parfümflakons gleichermaßen zuhause – ein Mann, der der Rose ihren Stolz zurückgab.</Text>
+    </Text>
+    <!-- END Deorges Gelbard, the Rose Virtuoso of Chartres-->
+    <!-- START Holmy Smokes, the artful codger-->
+    <Text>
+      <GUID>1900100217</GUID>
+      <Text>Holmy Smokes, der kunstvolle Kauz</Text>
+    </Text>
+    <Text>
+      <GUID>1900100218</GUID>
+      <Text>„Wenn’s nicht in den Augen brennt, war’s kein echtes Räuchern.“ Griesgrämig, stolz und mit einer Pfeife, die länger glimmt als so mancher Schornstein. Holmy ist eine Legende unter den Räuchermeistern des Nordens. Einst Seemann, heute Veredler edelster Fische – er kennt jedes Holz, jede Lake und jeden Luftzug. Sein Räucherlachs ist Gold wert – wortwörtlich.</Text>
+    </Text>
+    <!-- END Holmy Smokes, the artful codger-->
+    <!-- START Nuri Bilirgen, the master distiller-->
+    <Text>
+      <GUID>1900100221</GUID>
+      <Text>Nuri Bilirgen, der Meisterdestillateur</Text>
+    </Text>
+    <Text>
+      <GUID>1900100222</GUID>
+      <Text>„Ein einziger Tropfen kann Erinnerungen wecken – oder ein königliches Dessert ruinieren.“ Im ganzen Levante-Raum bekannt, gilt Nuri nicht nur als Brenner, sondern als Parfümeur mit Vision – ein Alchemist des Feinen. Sein Rosenwasser ist keine einfache Essenz, sondern ein Erlebnis. In Kupferbrennblasen destilliert er mit Geduld und einem Hauch Magie aus Damaszenerblüten das flüssige Gold des Orients. Adelshäuser reißen sich um seine Fläschchen, Handwerker um seine Rezepturen.</Text>
+    </Text>
+    <!-- END Nuri Bilirgen, the master distiller-->
+    <!-- START Radi-Rudi, cuts quicker than his shadow-->
+    <Text>
+      <GUID>1900100209</GUID>
+      <Text>Radi-Rudi, schneidet schneller als sein Schatten</Text>
+    </Text>
+    <Text>
+      <GUID>1900100234</GUID>
+      <Text>„Einmal blinzeln – schon ist dein Kohl Salat.“ Ein Wirbelwind mit dem Hackbeil und eine lebende Legende auf jedem Marktplatz. Radi-Rudi ist berühmt für seine blitzschnellen Hände: Er zerlegt Wurzeln, Blätter und gelegentlich auch Formulare mit beispielloser Präzision. Niemand kennt seinen echten Namen – oder wie viele Finger er noch hat. Sicher ist nur: Wo er auftaucht, geht’s plötzlich schneller.</Text>
+    </Text>
+    <!-- END Radi-Rudi, cuts quicker than his shadow-->
+    <!-- START Sebald Salzkringel, the cake is a lye-->
+    <Text>
+      <GUID>1900100225</GUID>
+      <Text>Sebald Salzkringel, der Kuchen ist eine Lauge</Text>
+    </Text>
+    <Text>
+      <GUID>1900100226</GUID>
+      <Text>„Der Schlüssel liegt in der Lauge. Und in der richtigen Handdrehung.“ Sebald ist ein Eigenbrötler mit salzigen Händen und einem goldbraunen Lebenswerk. Seine Brezeln sind nicht nur Gebäck – sie sind Philosophie, altes Handwerk und ein Stück Heimat zugleich. Die perfekte Kruste, das glänzende Finish und der charakteristische Dreh: alles folgt seiner uralten „Salzkringel-Methode“. Bäcker flüstern seinen Namen – meist mit Mehl in den Haaren.</Text>
+    </Text>
+    <!-- END Sebald Salzkringel, the cake is a lye-->
+    <!-- START Clémence Van der Noot, Chocolate is Love-->
+    <Text>
+      <GUID>1900100131</GUID>
+      <Text>Clémence Van der Noot, Schokolade ist Liebe</Text>
+    </Text>
+    <Text>
+      <GUID>1900100128</GUID>
+      <Text>Eine Meisterchocolatière aus Brüssel, ihre Pralinen- und Marzipanrezepte verführen Geschmacksknospen von Königen bis zu Bauern.</Text>
+    </Text>
+    <!-- END Clémence Van der Noot, Chocolate is Love-->
+    <!-- START Rob Steen, He loves animals-->
+    <Text>
+      <GUID>1900100129</GUID>
+      <Text>Robrecht Veldsteen, er liebt Tiere</Text>
+    </Text>
+    <Text>
+      <GUID>1900100130</GUID>
+      <Text>Mit unendlicher Geduld und aufrichtiger Zuneigung zu allen lebenden Wesen versteht Robrecht Veldsteen Tiere besser als Menschen. Um unnötiges Schlachten zu vermeiden, ersetzt er Fleisch durch Kartoffeln in alltäglichen Rezepten und beweist, dass Wohlstand nicht immer Blut verlangt.</Text>
+    </Text>
+    <!-- END Rob Steen, He loves animals-->
+    <!-- START Amir al-Tamr, keeper of the golden dates-->
+    <Text>
+      <GUID>1900100136</GUID>
+      <Text>Amir al-Tamr, Hüter der goldenen Datteln</Text>
+    </Text>
+    <Text>
+      <GUID>1900100132</GUID>
+      <Text>„Geduld ist die Sonne, unter der die süßesten Früchte reifen.“ Amir al-Tamr stammt aus einer langen Linie von Oasengärtnern, die schon vor Generationen die Kunst der Dattelpflege perfektionierten. Er kennt den genauen Atem des Wüstenwinds, weiß, wann der Sand zu heiß, das Wasser zu schwer und die Zeit reif ist. Unter seiner Obhut werden selbst dürre Palmen zu Oasen des Überflusses. Seine Datteln sind berühmt für ihre goldene Farbe und ihren honigsüßen Geschmack – ein Geschenk der Sonne selbst.</Text>
+    </Text>
+    <!-- END Amir al-Tamr, keeper of the golden dates-->
+    <!-- START Don Pascual Piñaverti, the pineapple alchemist-->
+    <Text>
+      <GUID>1900100134</GUID>
+      <Text>Don Pascual Piñavertic, der Ananas-Alchimist</Text>
+    </Text>
+    <Text>
+      <GUID>1900100135</GUID>
+      <Text>„Warum brennen wir Sorgen, wenn wir Sonne destillieren können?“ Don Pascual Piñaverti ist kein gewöhnlicher Brennmeister – er ist ein Visionär mit Strohhut, klebrigen Fingerspitzen und einem Notizbuch voller klebriger Früchte. In den Tropen aufgewachsen, erkannte er früh, dass die wahre Königin unter den Früchten nicht das Zuckerrohr ist – sondern die Ananas. Er ersetzte Kartoffelfelder durch Ananasgärten, ließ Fermentationsfässer nach Fruchtsaft duften und schwört darauf, dass eine Welt mit mehr Ananas auch eine friedlichere sei. Manche nennen ihn verrückt, andere: Genie.</Text>
+    </Text>
+    <!-- END Don Pascual Piñaverti, the pineapple alchemist-->
+    <!-- END Georg von Schallert, Commander of the Royal Airship Fleet-->
+    <Text>
+      <GUID>1900100137</GUID>
+      <Text>Gregor von Schallheim, Lordkommandant der königlichen Luftschiffflotte</Text>
+    </Text>
+    <Text>
+      <GUID>1900100138</GUID>
+      <Text>In ein mit dem Königshaus verbundenes Geschlecht hineingeboren, war er seit seiner Kindheit dazu bestimmt, die Ambitionen der Monarchie in den Himmel zu erheben. Mit unerschütterlicher Loyalität und einem durch frühere Generationen verfeinerten Navigationsinstinkt wurde er der Erste, der den Kurs der königlichen Luftschiffflotte festlegte.</Text>
+    </Text>
+    <!-- END Georg von Schallert, Commander of the Royal Airship Fleet-->
+    <!-- END Basilio Mercator, Master of Supplies-->
+    <Text>
+      <GUID>1900100006</GUID>
+      <Text>Basilio Mercator, Master of Supplies</Text>
+    </Text>
+    <Text>
+      <GUID>1900100069</GUID>
+      <Text>Als Veteran von Märkten, Karawanen und Häfen beherrscht Basilio die Kunst, ganze Städte zu versorgen, ohne auch nur ein Gramm Lebensmittel zu verschwenden.</Text>
+    </Text>
+    <!-- END Basilio Mercator, Master of Supplies-->
+  <!-- END SPECIALIST -->
+  </ModOp>
+</ModOps>

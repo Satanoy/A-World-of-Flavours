@@ -1,0 +1,739 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+<!-- START Products-->
+    <!-- START Joghurt-->
+     <Text>
+      <GUID>1900100000</GUID>
+      <Text>Yogurt</Text>
+    </Text>
+    <Text>
+      <GUID>1900100001</GUID>
+      <Text>Un alimento suave y cremoso, fermentado con esmero a partir de leche fresca.</Text>
+    </Text>
+    <!-- END Joghurt-->
+    <!-- START Mango-Lassi-->
+     <Text>
+      <GUID>1900100008</GUID>
+      <Text>Mango-Lassi</Text>
+    </Text>
+    <Text>
+      <GUID>1900100009</GUID>
+      <Text>Una bebida exótica y refrescante, mezcla de mango maduro y yogur cremoso.</Text>
+    </Text>
+    <!-- END Mango-Lassi-->
+    <!-- START Pineaple-->
+     <Text>
+      <GUID>1900100014</GUID>
+      <Text>Piñas</Text>
+    </Text>
+    <Text>
+      <GUID>1900100015</GUID>
+      <Text>Frutas doradas, dulces y jugosas, orgullo de las tierras tropicales.</Text>
+    </Text>
+    <!-- END Pineaple-->
+    <!-- START Fortified Pineapple Fertilizer-->
+     <Text>
+      <GUID>1900100025</GUID>
+      <Text>Fertilizante Fortificado</Text>
+    </Text>
+    <Text>
+      <GUID>1900100026</GUID>
+      <Text>Una mezcla enriquecida para nutrir cultivos tropicales exigentes como la piña.</Text>
+    </Text>
+    <!-- END Fortified Pineapple Fertilizer-->
+    <!-- START Exports Pineapple-->
+     <Text>
+      <GUID>1900100042</GUID>
+      <Text>Piñas de Exportación</Text>
+    </Text>
+    <Text>
+      <GUID>1900100043</GUID>
+      <Text>Frutas seleccionadas, empacadas con esmero para conquistar los mercados del mundo.</Text>
+    </Text>
+    <!-- END Exports Pineappler-->
+    <!-- START Wooden Shoes-->
+     <Text>
+      <GUID>1900100055</GUID>
+      <Text>Zuecos de madera</Text>
+    </Text>
+    <Text>
+      <GUID>1900100056</GUID>
+      <Text>¡Los holandeses estarán felices</Text>
+    </Text>
+    <!-- END Wooden Shoes-->
+    <!-- START Mustard Seeds-->
+     <Text>
+      <GUID>1900100071</GUID>
+      <Text>Semillas de Mostaza</Text>
+    </Text>
+    <Text>
+      <GUID>1900100072</GUID>
+      <Text>Semillas picantes utilizadas en salsas y encurtidos.</Text>
+    </Text>
+    <!-- END Mustard Seeds-->
+    <!-- START Mustard -->
+     <Text>
+      <GUID>1900100084</GUID>
+      <Text>Mostaza</Text>
+    </Text>
+    <Text>
+      <GUID>1900100087</GUID>
+      <Text>Condimento picante para realzar sabores en la cocina.</Text>
+    </Text>
+    <!-- END Mustard -->
+    <!-- START Leberkäse -->
+     <Text>
+      <GUID>1900100089</GUID>
+      <Text>Leberkäse</Text>
+    </Text>
+    <Text>
+      <GUID>1900100090</GUID>
+      <Text>Un sabroso embutido horneado de origen bávaro.</Text>
+    </Text>
+    <!-- END Leberkäse -->
+    <!-- START Radish -->
+     <Text>
+      <GUID>1900100097</GUID>
+      <Text>Rábano</Text>
+    </Text>
+    <Text>
+      <GUID>1900100098</GUID>
+      <Text>Una raíz crujiente y picante, cultivada por su sabor distintivo y su valor nutritivo.</Text>
+    </Text>
+    <!-- END Radish-->
+    <!-- START Brezeln -->
+     <Text>
+      <GUID>1900100120</GUID>
+      <Text>Brezeln</Text>
+    </Text>
+    <Text>
+      <GUID>1900100121</GUID>
+      <Text>Nudos horneados; de masa suave, salados y con sabor tradicional.</Text>
+    </Text>
+    <!-- END Brezeln-->
+    <!-- START Pineapple Sapling-->
+     <Text>
+      <GUID>1900100215</GUID>
+      <Text>Brote de Piña</Text>
+    </Text>
+    <!-- END Pineapple Sapling-->
+
+
+<!-- END Products-->
+<!-- START Buildings-->
+   <!-- START Joghurt-Molkerei-->
+     <Text>
+      <GUID>1900100016</GUID>
+      <Text>Fábrica de Yogurt</Text>
+    </Text>
+    <Text>
+      <GUID>1900100017</GUID>
+      <Text>Una lechería especializada donde la leche fresca se transforma en yogurt natural.</Text>
+    </Text>
+    <!-- END Joghurt-Molkerei-->
+    <!-- START House of Flavors Blank-->
+     <Text>
+      <GUID>1900100076</GUID>
+      <Text>Casa Del Sabor</Text>
+    </Text>
+    <Text>
+      <GUID>1900100077</GUID>
+      <Text>Donde los sabores del mundo cobran vida en recetas únicas y aromáticas.</Text>
+    </Text>
+    <!-- END House of Flavors Blank-->
+    <!-- START Mango-Lassi-Fabrik-->
+     <Text>
+      <GUID>1900100023</GUID>
+      <Text>Casa Del Sabor: Mango-Lassi</Text>
+    </Text>
+    <Text>
+      <GUID>1900100024</GUID>
+      <Text>Una refrescante fábrica donde mangos dulces y yogurt se mezclan en una bebida deliciosa.</Text>
+    </Text>
+    <!-- END Mango-Lassi-Fabrik-->
+    <!-- START House of Flavors: Smoke Salmon-->
+     <Text>
+      <GUID>1900100073</GUID>
+      <Text>Casa Del Sabor: Salmon Ahumado</Text>
+    </Text>
+    <Text>
+      <GUID>1900100074</GUID>
+      <Text>Una fabrica donde el Salmón es curado y ahumado lentamente para conservar su sabor y frescura.</Text>
+    </Text>
+    <!-- END House of Flavors: Smoke Salmon-->
+    <!-- START House of Flavors: Leberkäse-->
+     <Text>
+      <GUID>1900100091</GUID>
+      <Text>Casa Del Sabor: Leberkäse</Text>
+    </Text>
+    <Text>
+      <GUID>1900100092</GUID>
+      <Text>Instalación especializada en la preparación y horneado del tradicional Leberkäse.</Text>
+    </Text>
+    <!-- END House of Flavors: Leberkäse-->
+    <!-- START Tropical Fertilizer Plant-->
+     <Text>
+      <GUID>1900100030</GUID>
+      <Text>Planta de Fertilizadora Tropical</Text>
+    </Text>
+    <Text>
+      <GUID>1900100039</GUID>
+      <Text>Donde los saberes agrícolas se combinan para crear fertilizantes capaces de enriquecer hasta el suelo más exigente.</Text>
+    </Text>
+    <!-- END Tropical Fertilizer Plant-->
+    <!-- START Pineapple Exporter-->
+     <Text>
+      <GUID>1900100044</GUID>
+      <Text>Exportadora de Piñas</Text>
+    </Text>
+    <Text>
+      <GUID>1900100045</GUID>
+      <Text>Centro de embalaje y despacho donde las piñas más finas del trópico parten hacia el mundo.</Text>
+    </Text>
+    <!-- END Pineapple Exporter-->
+    <!-- START Herbal Tea Dryer-->
+     <Text>
+      <GUID>1900100057</GUID>
+      <Text>Secadero de Tisana Negra</Text>
+    </Text>
+    <Text>
+      <GUID>11900100058</GUID>
+      <Text>Aqui se secan hierbas aromáticas y se preparan para convertirse en Tisana Negra, la infusión preferida del Viejo Mundo.</Text>
+    </Text>
+    <!-- END Herbal Tea Dryer-->
+    <!-- START Wooden Shoe Maker-->
+     <Text>
+      <GUID>1900100065</GUID>
+      <Text>Zapatero de Madera</Text>
+    </Text>
+    <Text>
+      <GUID>1900100066</GUID>
+      <Text>Edificio productivo</Text>
+    </Text>
+    <!-- END Wooden Shoe Maker-->
+    <!-- START Mustard Mill-->
+     <Text>
+      <GUID>1900100083</GUID>
+      <Text>Molino de Mostaza</Text>
+    </Text>
+    <!-- END Mustard Mill-->
+    <!-- START Bretzelnhaus-->
+     <Text>
+      <GUID>1900100122</GUID>
+      <Text>Bretzelnhaus</Text>
+    </Text>
+    <!-- END Bretzelnhaus-->
+    <!-- START Rosenwaterworkshop-->
+     <Text>
+      <GUID>1900100127</GUID>
+      <Text>Rosenwater workshop</Text>
+    </Text>
+    <!-- END Rosenwaterworkshop-->
+    <!-- START Traditional Confectioner-->
+     <Text>
+      <GUID>1888999755</GUID>
+      <Text>Repostería tradicional</Text>
+    </Text>
+    <!-- END Traditional Confectioner-->
+
+<!-- END Buildings -->
+<!-- START Crops-->
+     <!-- START Orchard: Mango-->
+     <Text>
+      <GUID>1900100020</GUID>
+      <Text>Orchard: Mango</Text>
+    </Text>
+    <Text>
+      <GUID>1900100013</GUID>
+      <Text>Un vergel tropical donde florecen dulces mangos bajo el sol ardiente.</Text>
+    </Text>
+    <!-- END Orchard: Mango-->
+    <!-- START Pineapple Plantation-->
+     <Text>
+      <GUID>1900100018</GUID>
+      <Text>Plantación de piñas</Text>
+    </Text>
+    <Text>
+      <GUID>1900100019</GUID>
+      <Text>Campos tropicales donde florecen las frutas doradas más codiciadas del mundo.</Text>
+    </Text>
+    <!-- END Pineapple Plantation-->
+    <!-- START Mustard Farm-->
+     <Text>
+      <GUID>1900100081</GUID>
+      <Text>Granja de Mostaza</Text>
+    </Text>
+    <!-- END Mustard Farm-->
+    <!-- START Radish Farm-->
+     <Text>
+      <GUID>1900100100</GUID>
+      <Text>Granja de Rábanos</Text>
+    </Text>
+    <!-- END Radish Farm-->
+    <!-- START Pineapple Sapling Plantation-->
+     <Text>
+      <GUID>1900100207</GUID>
+      <Text>Plantación de Brotes de Piña</Text>
+    </Text>
+    <!-- END Pineapple Sapling Plantation-->
+    <!-- START Pineaple sapling farm field -->
+    <Text>
+      <GUID>1900100133</GUID>
+      <Text>Cultivo de brotes de piña</Text>
+    </Text>
+    <!-- END Pineaple sapling farm field -->
+    <!-- START Mustard farm field -->
+    <Text>
+      <GUID>1900100094</GUID>
+      <Text>Cultivo de mostaza</Text>
+    </Text>
+    <!-- END Mustard farm field -->
+    <!-- START Radish farm field -->
+    <Text>
+      <GUID>1900100093</GUID>
+      <Text>Cultivo de rábanos</Text>
+    </Text>
+    <!-- END Radish farm field -->
+    
+<!-- END Crops -->
+<!-- START Buffs-->
+
+     <!-- START Buff Tropical Fertilizer-->
+     <Text>
+      <GUID>1900100053</GUID>
+      <Text>Raíces Fortalecidas</Text>
+    </Text>
+    <Text>
+      <GUID>1900100054</GUID>
+      <Text>Impulsa el crecimiento de cultivos tropicales.</Text>
+    </Text>
+    <!-- END Buff Tropical Fertilizer-->
+    
+<!-- END Buffs-->
+<!-- START Chainprods-->
+     <!-- START  Joghurt-->
+     <Text>
+      <GUID>1900100010</GUID>
+      <Text>Yogurt</Text>
+    </Text>
+    <Text>
+      <GUID>1900100011</GUID>
+      <Text>Produciendo</Text>
+    </Text>
+    <!-- END  Joghurt-->
+    <!-- START  Joghurt-->
+     <Text>
+      <GUID>1900100012</GUID>
+      <Text>Mango-Lassi</Text>
+    </Text>
+    <Text>
+      <GUID>1900100011</GUID>
+    </Text>
+    <!-- END  Joghurt-->
+    <!-- START  Pineapples-->
+     <Text>
+      <GUID>1900100029</GUID>
+      <Text>Piñas</Text>
+    </Text>
+    <Text>
+      <GUID>1900100011</GUID>
+    </Text>
+    <!-- END  Pineapples-->
+    <!-- START  Export Pineapples-->
+     <Text>
+      <GUID>1900100046</GUID>
+      <Text>Piñas de Exportación</Text>
+    </Text>
+    <Text>
+      <GUID>1900100011</GUID>
+    </Text>
+    <!-- END  Export Pineapples-->
+    <!-- START  Export Pineapples-->
+     <Text>
+      <GUID>1900100059</GUID>
+      <Text>Tisana Negra</Text>
+    </Text>
+    <Text>
+      <GUID>1900100011</GUID>
+    </Text>
+    <!-- END  Export Pineapples-->
+    <!-- START  Wooden Shoes-->
+     <Text>
+      <GUID>1900100064</GUID>
+      <Text>Zuecos de madera</Text>
+    </Text>
+    <Text>
+      <GUID>1900100011</GUID>
+    </Text>
+    <!-- END  Wooden Shoes-->
+    <!-- START Mustard-->
+     <Text>
+      <GUID>1900100088</GUID>
+      <Text>Mustard</Text>
+    </Text>
+    <Text>
+      <GUID>1900100011</GUID>
+    </Text>
+    <!-- END Mustard-->
+    <!-- START Leberkäse-->
+     <Text>
+      <GUID>1900100096</GUID>
+      <Text>Leberkäse</Text>
+    </Text>
+    <Text>
+      <GUID>1900100011</GUID>
+    </Text>
+    <!-- END Leberkäse-->
+    <!-- START Brezeln-->
+     <Text>
+      <GUID>1900100123</GUID>
+      <Text>Brezeln</Text>
+    </Text>
+    <Text>
+      <GUID>1900100011</GUID>
+    </Text>
+    <!-- END Brezeln-->
+    <!-- START  Rosewater-->
+     <Text>
+      <GUID>1900100126</GUID>
+      <Text>Rosewater</Text>
+    </Text>
+    <Text>
+      <GUID>1900100011</GUID>
+    </Text>
+    <!-- END  Rosewater-->
+    <!-- START  Traditional Sweets-->
+     <Text>
+      <GUID>1888999756</GUID>
+      <Text>Dulces Tradicionales</Text>
+    </Text>
+    <Text>
+      <GUID>1900100011</GUID>
+    </Text>
+    <!-- END  Traditional Sweets-->
+    
+<!-- END Chainprods -->
+<!-- Desc Multy-->   
+
+    <Text>
+      <GUID>1900100079</GUID>
+      <Text>Mango-Lassi</Text>
+    </Text>
+    <Text>
+      <GUID>1900100080</GUID>
+      <Text>Salmon Ahumado</Text>
+    </Text>
+    <Text>
+      <GUID>1900100095</GUID>
+      <Text>Leberkäse</Text>
+    </Text>
+
+<!-- Desc Multy-->  
+<!-- START Restaurant-->
+   <Text>
+      <GUID>1900100101</GUID>
+      <Text>Restaurante Sabores y Especias</Text>
+    </Text>
+    <Text>
+      <GUID>1900100102</GUID>
+      <Text>Un pequeño pero acogedor restaurant que ofrece en su menú, recetas de todo el mundo.</Text>
+    </Text> 
+   <Text>
+      <GUID>1900100104</GUID>
+      <Text>Flavours and Spices Restaurant: Brotzeit</Text>
+    </Text>
+    <Text>
+      <GUID>1900100105</GUID>
+      <Text>Un contundente y alimenticio desayuno estilo bavaro, muy tradicional.</Text>
+    </Text> 
+    <Text>
+      <GUID>1900100108</GUID>
+      <Text>Flavours and Spices Restaurant: Gravad Lax</Text>
+    </Text>
+    <Text>
+      <GUID>1900100109</GUID>
+      <Text>Un plato de salmon tipico de Suecia, saludable y lleno del sabor del mar del norte.</Text>
+    </Text> 
+    <Text>
+      <GUID>1900100112</GUID>
+      <Text>Flavours and Spices Restaurant: Lokum</Text>
+    </Text>
+    <Text>
+      <GUID>1900100113</GUID>
+      <Text>Un postre tipico de Turquia, tambien conocida como delicia turca, perfecto para la hora del cafe</Text>
+    </Text> 
+    <Text>
+      <GUID>1900100116</GUID>
+      <Text>Flavours and Spices Restaurant: Helado de Yogurt Piña-mango</Text>
+    </Text>
+    <Text>
+      <GUID>1900100117</GUID>
+      <Text>Un postre refrescante hecho con frutas frescas del tropico y yogurt natural.</Text>
+    </Text>
+    <Text>
+      <GUID>1900100106</GUID>
+      <Text>Brotzeit</Text>
+    </Text>
+    <Text>
+      <GUID>1900100110</GUID>
+      <Text>Gravad Lax</Text>
+    </Text>
+    <Text>
+      <GUID>1900100114</GUID>
+      <Text>Lokum</Text>
+    </Text>
+    <Text>
+      <GUID>1900100118</GUID>
+      <Text>Helado de Yogurt Piña-mango</Text>
+    </Text>
+        <Text>
+      <GUID>1900100107</GUID>
+      <Text>Brotzeit</Text>
+    </Text>
+    <Text>
+      <GUID>1900100111</GUID>
+      <Text>Gravad Lax</Text>
+    </Text>
+    <Text>
+      <GUID>1900100115</GUID>
+      <Text>Lokum</Text>
+    </Text>
+    <Text>
+      <GUID>1900100119</GUID>
+      <Text>Helado de Yogurt Piña-mango</Text>
+    </Text>
+<!-- END Restaurant--> 
+<!-- START SPECIALIST-->
+     <!-- START Claire Grube, Spezialistin für Bakterien-->
+     <Text>
+      <GUID>1900100027</GUID>
+      <Text>Claire Grube, Especialista en Bacterias</Text>
+    </Text>
+    <Text>
+      <GUID>1900100028</GUID>
+      <Text>Huele un poco fuerte, pero tiene mucho conocimiento sobre cultivos bacterianos.</Text>
+    </Text>
+    <!-- END Claire Grube, Spezialistin für Bakterien-->
+    <!-- START Emerson Rodriguez, der Mangokönig-->
+     <Text>
+      <GUID>1900100031</GUID>
+      <Text>Emerson Rodríguez, El Rey del Mango</Text>
+    </Text>
+    <Text>
+      <GUID>1900100032</GUID>
+      <Text>Él se sienta en el trono del Rey Mango.</Text>
+    </Text>
+    <!-- END Emerson Rodriguez, der Mangokönig-->
+    <!-- START Kiran Rasvala, der Nektaressentialist-->
+     <Text>
+      <GUID>1900100037</GUID>
+      <Text>Kiran Rasvala, El Esencialista del néctar</Text>
+    </Text>
+    <Text>
+      <GUID>1900100038</GUID>
+      <Text>Él sabe exactamente cómo servir los mejores sabores.</Text>
+    </Text>
+    <!-- END Kiran Rasvala, der Nektaressentialist-->
+    <!-- START Isabela Maranta, The Queen of Pineapples-->
+     <Text>
+      <GUID>1900100047</GUID>
+      <Text>Isabela Maranta, La Reina de las Piñas</Text>
+    </Text>
+    <Text>
+      <GUID>1900100048</GUID>
+      <Text>Cultivadora apasionada del Caribe, sus frutos dorados son orgullo de los trópicos y deseo de los puertos lejanos.</Text>
+    </Text>
+    <!-- END Isabela Maranta, The Queen of Pineapples-->
+    <!-- START Don Everardo Gómez, The Compost Master-->
+     <Text>
+      <GUID>1900100049</GUID>
+      <Text>Don Everardo Gómez, El Maestro del Compost</Text>
+    </Text>
+    <Text>
+      <GUID>1900100050</GUID>
+      <Text>Con su sabiduría ancestral y precisión moderna, transforma estiércol y minerales en el secreto del éxito agrícola tropical.</Text>
+    </Text>
+    <!-- END Don Everardo Gómez, The Compost Master-->
+    <!-- START Doña Caridad Herrera, The Lady of Sweet Gold-->
+     <Text>
+      <GUID>1900100051</GUID>
+      <Text>Doña Caridad Herrera, La Dama del Oro Dulce</Text>
+    </Text>
+    <Text>
+      <GUID>1900100052</GUID>
+      <Text>Con mirada firme y manos pulcras, supervisa cada caja de piñas como si fuera un tesoro que cruzará el mar.</Text>
+    </Text>
+    <!-- END Doña Caridad Herrera, The Lady of Sweet Gold-->
+    <!-- START Élise Lavandier, The Infusion Lady-->
+     <Text>
+      <GUID>1900100060</GUID>
+      <Text>Élise Lavandier, La Dama de la Infusión</Text>
+    </Text>
+    <Text>
+      <GUID>1900100061</GUID>
+      <Text>Conoce cada hierba por su tacto y aroma; su secado transforma simples hojas en tisanas de carácter y profundidad.</Text>
+    </Text>
+    <!-- END Élise Lavandier, The Infusion Lady-->
+    <!-- START Janneke van Hout, The Clog Master-->
+     <Text>
+      <GUID>1900100067</GUID>
+      <Text>Janneke van Hout, La Maestra del Zueco</Text>
+    </Text>
+    <Text>
+      <GUID>1900100068</GUID>
+      <Text>Nacida entre virutas y maderas nobles, Janneke talla cada par como si fuera una obra de arte para los pies del pueblo.</Text>
+    </Text>
+    <!-- END Janneke van Hout, The Clog Master-->
+    <!-- END Dr.Alois Habelwurz, mustardologist-->
+    <Text>
+      <GUID>1900100201</GUID>
+      <Text>Dr.Alois Habelwurz, mostazólogo</Text>
+    </Text>
+    <Text>
+      <GUID>1900100202</GUID>
+      <Text>Botánico meticuloso con predilección por todo lo que pica… al menos en el paladar. Habelwurz pasó años cruzando especies silvestres de Brassicaceae hasta obtener una variedad de mostaza de altísimo rendimiento, bautizada como «Habeloro». Sus métodos son polémicos, pero los resultados hablan por sí solos.</Text>
+    </Text>
+    <!-- END Dr.Alois Habelwurz, mustardologist-->
+    <!-- END Anders Fluefisker, the skillful fisherman-->
+    <Text>
+      <GUID>1900100213</GUID>
+      <Text>Anders Fluefisker, el pescador virtuoso</Text>
+    </Text>
+    <Text>
+      <GUID>1900100214</GUID>
+      <Text>«El mar se lee como un diario antiguo.» Un hombre del norte, callado y sereno, con décadas de experiencia. Fluefisker no pesca: crea arte. Sus líneas se deslizan como susurros sobre aguas heladas, y sus métodos son tan precisos como elegantes. Desde que se retiró de la expedición polar real, vive apartado, pero su conocimiento sobre rutas de peces y migración de focas sigue siendo insuperable.</Text>
+    </Text>
+    <!-- END Anders Fluefisker, the skillful fisherman-->
+    <!-- START Brunhilde Senftreu, purveyor to the court of the ducal mustard office-->
+    <Text>
+      <GUID>1900100205</GUID>
+      <Text>Brunhilde Senftreu – Proveedora del Mostazo Ducal</Text>
+    </Text>
+    <Text>
+      <GUID>1900100206</GUID>
+      <Text>«Solo la molienda más fina merece adornar la mesa noble.» Procedente de una antigua familia de artesanos del condimento, Brunhilde Senftreu ascendió con disciplina férrea y cucharón de plata hasta convertirse en la proveedora oficial de mostaza de la corte ducal. Supervisa cada lote con mirada aguda y, si es necesario, remueve ella misma. Su mera presencia motiva a los trabajadores a dar lo mejor de sí.</Text>
+    </Text>
+    <!-- END Brunhilde Senftreu, purveyor to the court of the ducal mustard office-->
+    <!-- START Da Huaba Sepp, the master of meat-->
+    <Text>
+      <GUID>1900100229</GUID>
+      <Text>Da Huaba Sepp, el maestro de la carne</Text>
+    </Text>
+    <Text>
+      <GUID>1900100230</GUID>
+      <Text>«Si no chorrea un poco, no vale la pena masticarlo.» Un estereotipo bávaro andante: barriga orgullosa, bigote en punta y un cuchillo más grande que su jarra de cerveza. "Da Huaba" Sepp es carnicero de pura cepa y ha convertido el Leberkäse en su legado personal. Con recetas secretas, una pizca de humo y mucha manteca, sus pasteles de carne son leyenda… y amenaza para las arterias reales.</Text>
+    </Text>
+    <!-- END Da Huaba Sepp, the master of meat-->
+    <!-- START Deorges Gelbard, the Rose Virtuoso of Chartres-->
+    <Text>
+      <GUID>1900100233</GUID>
+      <Text>Deorges Gelbard, el virtuoso de las rosas de Chartres</Text>
+    </Text>
+    <Text>
+      <GUID>1900100210</GUID>
+      <Text>«Cada rosa es un poema… pero solo la adecuada florece a tiempo.» Gelbard no es un simple jardinero: es un susurrador de rosas, con guantes de seda y voluntad férrea. Criado entre invernaderos del Loira, ha cultivado flores que se abren con el sol y perfuman al ritmo de un cuarteto de cuerda. Sus variedades adornan jardines reales y frascos de perfume finísimo. Dicen que devolvió a la rosa su dignidad.</Text>
+    </Text>
+    <!-- END Deorges Gelbard, the Rose Virtuoso of Chartres-->
+    <!-- START Holmy Smokes, the artful codger-->
+    <Text>
+      <GUID>1900100217</GUID>
+      <Text>Holmy Smokes, el viejo maestro del humo</Text>
+    </Text>
+    <Text>
+      <GUID>1900100218</GUID>
+      <Text>«Si no te hace llorar un poco, no es buen ahumado.» Gruñón, orgulloso y con una pipa que lleva encendida más años que muchos barcos han navegado. Holmy es leyenda viva entre los ahumadores del norte. Exmarinero y actual maestro del salmón, domina cada truco: la mezcla de maderas, el punto exacto de salmuera, y el arte de esperar. Su salmón ahumado vale su peso en oro.</Text>
+    </Text>
+    <!-- END Holmy Smokes, the artful codger-->
+    <!-- START Nuri Bilirgen, the master distiller-->
+    <Text>
+      <GUID>1900100221</GUID>
+      <Text>Nuri Bilirgen, el maestro destilador</Text>
+    </Text>
+    <Text>
+      <GUID>1900100222</GUID>
+      <Text>«Una sola gota puede despertar recuerdos… o arruinar un postre real.» Famoso en todo el Levante y más allá, Nuri no es solo un destilador: es un perfumista con propósito, un químico de la elegancia. Su agua de rosas no es un simple extracto, sino una experiencia sensorial. Mediante alambiques de cobre y mezclas secretas de pétalos de Damasco, produce delicadeza líquida, gota a gota. Los nobles se disputan sus frascos; los artesanos, su sabiduría.</Text>
+    </Text>
+    <!-- END Nuri Bilirgen, the master distiller-->
+    <!-- START Radi-Rudi, cuts quicker than his shadow-->
+    <Text>
+      <GUID>1900100209</GUID>
+      <Text>Radi-Rudi – Más rápido que su sombra</Text>
+    </Text>
+    <Text>
+      <GUID>1900100234</GUID>
+      <Text>«Parpadeas, y tu repollo ya es ensalada.» Un torbellino con cuchilla y leyenda viva en todos los mercados. Radiu-Rudi se ganó la fama con su habilidad al cortar: raíces, hojas, incluso documentos administrativos, todo cae ante su filo certero. Nadie conoce su verdadero nombre... ni cuántos dedos le quedan. Lo único seguro: donde trabaja, la producción se acelera.</Text>
+    </Text>
+    <!-- END Radi-Rudi, cuts quicker than his shadow-->
+    <!-- START Sebald Salzkringel, the cake is a lye-->
+     <Text>
+      <GUID>1900100225</GUID>
+      <Text>Sebald Salzkringel, el bollo es mentira</Text>
+    </Text>
+    <Text>
+      <GUID>1900100226</GUID>
+      <Text>«El secreto está en la lejía… y en el giro de muñeca.» Sebald es un panadero excéntrico con alma salada y corazón de masa. No hornea pretzels: los esculpe con maestría casi mística. Su corteza dorada, su forma perfecta y su receta ancestral han hecho de él una leyenda entre los panaderos. Dicen que puede detectar una cocción fallida con solo oler el vapor.</Text>
+    </Text>
+    <!-- END Sebald Salzkringel, the cake is a lye-->
+    <!-- START Clémence Van der Noot, Chocolate is Love-->
+    <Text>
+      <GUID>1900100131</GUID>
+      <Text>Clémence Van der Noot, El chocolate es amor</Text>
+    </Text>
+    <Text>
+      <GUID>1900100128</GUID>
+      <Text>Maestra chocolatera de Bruselas, sus recetas de pralinés y mazapanes seducen paladares desde reyes hasta granjeros.</Text>
+    </Text>
+    <!-- END Clémence Van der Noot, Chocolate is Love-->
+    <!-- START Rob Steen, He loves animals-->
+    <Text>
+      <GUID>1900100129</GUID>
+      <Text>Robrecht Veldsteen, El ama a los animales</Text>
+    </Text>
+    <Text>
+      <GUID>1900100130</GUID>
+      <Text>Con una paciencia infinita y un afecto genuino por toda criatura viviente, Robrecht Veldsteen entiende a los animales mejor que a las personas. Para evitar el sacrificio innecesario, sustituye la carne por patatas en las recetas cotidianas, demostrando que la prosperidad no siempre exige sangre.</Text>
+    </Text>
+    <!-- END Rob Steen, He loves animals-->
+    <!-- START Amir al-Tamr, keeper of the golden dates-->
+    <Text>
+      <GUID>1900100136</GUID>
+      <Text>Amir al-Tamr, guardián de los dátiles dorados</Text>
+    </Text>
+    <Text>
+      <GUID>1900100132</GUID>
+      <Text>«La paciencia es el sol bajo el que maduran los frutos más dulces.» Descendiente de una antigua estirpe de jardineros de oasis, Amir al-Tamr ha dedicado su vida a perfeccionar el arte del cultivo de dátiles. Conoce el suspiro del viento del desierto, el momento en que la arena se cansa y la fruta susurra que está lista. Bajo su cuidado, incluso las palmeras más secas dan fruto abundante. Sus dátiles, de color dorado y sabor a miel, son un regalo del propio sol.</Text>
+    </Text>
+    <!-- END Amir al-Tamr, keeper of the golden dates-->
+    <!-- START Don Pascual Piñaverti, the pineapple alchemist-->
+    <Text>
+      <GUID>1900100134</GUID>
+      <Text>Don Pascual Piñaverti, el alquimista de la piña</Text>
+    </Text>
+    <Text>
+      <GUID>1900100135</GUID>
+      <Text>«¿Para qué destilar pesares si podemos destilar sol?» Nacido entre mercados tropicales, Pascual Piñaverti descubrió que la piña es más noble que la caña de azúcar y más alegre que la patata. Transformó destilerías enteras: ahora huelen a fruta madura, no a melaza ni tubérculo. Algunos lo llaman loco; otros, maestro del futuro.</Text>
+    </Text>
+    <!-- END Don Pascual Piñaverti, the pineapple alchemist-->
+    <!-- END Georg von Schallert, Commander of the Royal Airship Fleet-->
+    <Text>
+      <GUID>1900100137</GUID>
+      <Text>Gregor von Schallheim, Lord Comandante de los Dirigibles de la Corona</Text>
+    </Text>
+    <Text>
+      <GUID>1900100138</GUID>
+      <Text>Nacido en un linaje ligado a la casa real, estuvo destinado desde la infancia a elevar las ambiciones de la monarquía al cielo. Con una lealtad inquebrantable y un instinto de navegante refinado por generaciones anteriores, se convirtió en el primero en trazar el rumbo de la flota real de dirigibles.</Text>
+    </Text>
+    <!-- END Georg von Schallert, Commander of the Royal Airship Fleet-->
+    <!-- END Basilio Mercator, Master of Supplies-->
+    <Text>
+      <GUID>1900100006</GUID>
+      <Text>Basilio Mercator, Maestro de Abastos</Text>
+    </Text>
+    <Text>
+      <GUID>1900100069</GUID>
+      <Text>Veterano de mercados, caravanas y puertos, Basilio domina el arte de abastecer ciudades enteras sin derrochar un gramo de comida.</Text>
+    </Text>
+    <!-- END Basilio Mercator, Master of Supplies-->
+<!-- END SPECIALIST -->
+  </ModOp>
+</ModOps>
